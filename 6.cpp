@@ -10,3 +10,4 @@ int main() {
 	for (const auto& c : n)
 		std::cout << c << '\n';
 }
+// Change to other mode than 98 to run this program.
