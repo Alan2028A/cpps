@@ -7,9 +7,11 @@ int main()
 	int a;
 	int b;
 	int c;
+	do{
 	cout << "login-1" ;
 	cin >>a;
 	cout << ">>" <<endl;
+	}while (a<1 , a>2);
 	if (a=1)
 	cout << "UserName: " ;
 	cin >>b;
@@ -20,3 +22,4 @@ int main()
 	else cout << "Access Denied." <<endl;
 	return 0;
 }
+// README: https://github.com/Alan2028A/cpps/readme.md
