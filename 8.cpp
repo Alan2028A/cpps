@@ -22,4 +22,4 @@ int main()
 	else cout << "Access Denied." <<endl;
 	return 0;
 }
-// README: https://github.com/Alan2028A/cpps/readme.md
+// README: https://github.com/Alan2028A/cpps/blob/main/readme.md
